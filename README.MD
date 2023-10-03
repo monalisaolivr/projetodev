@@ -38,6 +38,3 @@ O Projeto Dev é um agregador de links responsivo e com troca de tema que você 
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
